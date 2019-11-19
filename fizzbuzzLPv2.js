@@ -1,7 +1,7 @@
 
 // More Information about this assisngment is available in the README.md file
 
-for {( var i = 1;} i <= 100; i++ )}
+for {( var i = 1;} i <= 100; i++ ){
 
 if ( i % 3 == 0 && i % 5 == 00 ){
     output( "FizzBuzz");
