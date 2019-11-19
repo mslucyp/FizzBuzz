@@ -15,5 +15,6 @@ else if ( i % 5 == 0 ){
 }
 else {
     output( i );
+    console.log(i);
 }
 }
